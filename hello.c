@@ -11,9 +11,9 @@
 #include <stdio.h>
 
 int main(int argc, char **argv) {
-  printf("Spencer Schmidt\n");
+  printf("Spencer Schmidt!\n");
   printf("Geology and Mathematics\n");
-  printf("Brent Fairchild\n");
+  printf("Brent Fairchild!\n");
   printf("Electrical Engineering\n")
   return 0;
 }
